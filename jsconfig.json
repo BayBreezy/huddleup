@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": ["@nuxtjs/toast", "@nuxt/types", "@nuxtjs/dayjs"],
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"],
+      "~~/*": ["./*"],
+      "@@/*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+}

@@ -1,0 +1,14 @@
+* {
+  font-family: "Roboto" !important;
+}
+
+.toasted-container .toasted .action {
+  color: white !important;
+}
+.toasted-container .toasted .action:hover {
+  text-decoration: none !important;
+}
+
+.plyr--video {
+  border-radius: 15px;
+}
